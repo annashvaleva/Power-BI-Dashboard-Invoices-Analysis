@@ -6,18 +6,31 @@ The goal of this project was to analyze invoice data and create an interactive P
 Source: Provided in the course (Excel dataset)
 
 Columns included:
+
 CUSTOMER INVOICE NUMBER
+
 CONCEPT
+
 CUSTOMER
+
 PROVINCE
+
 SECTOR
+
 CUSTOMER IMPORT
+
 CUSTOMER INVOICE DATE
+
 CUSTOMER PAYMENT
+
 SUPPLIER
+
 ZONE
+
 TYPE
+
 IMPORT SUPPLIER
+
 Format: Excel (.xlsx)
 
 🔧 Tools and Technologies:
