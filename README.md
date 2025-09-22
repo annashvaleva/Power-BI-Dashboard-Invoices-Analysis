@@ -6,8 +6,11 @@ The goal of this project was to analyze invoice data and create an interactive P
 Source: Provided in the course (Excel dataset)
 
 Columns included:
+
 CUSTOMER INVOICE NUMBER
+
 CONCEPT
+
 CUSTOMER
 
 PROVINCE
